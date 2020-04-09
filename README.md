@@ -1,2 +1,2 @@
 # hyraka
-Recognition of image elements and automatic tag generation inspired in song lyrics
+Detection and recognition of elements in transmission electron microscopy images (TEM)
